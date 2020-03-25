@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/IZUNA894/static/css/main.39a3162b.chunk.css",
+    "main.js": "/IZUNA894/static/js/main.3ae54917.chunk.js",
+    "main.js.map": "/IZUNA894/static/js/main.3ae54917.chunk.js.map",
+    "runtime-main.js": "/IZUNA894/static/js/runtime-main.4b4c999f.js",
+    "runtime-main.js.map": "/IZUNA894/static/js/runtime-main.4b4c999f.js.map",
+    "static/js/2.952dfd10.chunk.js": "/IZUNA894/static/js/2.952dfd10.chunk.js",
+    "static/js/2.952dfd10.chunk.js.map": "/IZUNA894/static/js/2.952dfd10.chunk.js.map",
+    "index.html": "/IZUNA894/index.html",
+    "precache-manifest.a984a0982e4d1bf5ef44402c04dc8e2c.js": "/IZUNA894/precache-manifest.a984a0982e4d1bf5ef44402c04dc8e2c.js",
+    "service-worker.js": "/IZUNA894/service-worker.js",
+    "static/css/main.39a3162b.chunk.css.map": "/IZUNA894/static/css/main.39a3162b.chunk.css.map",
+    "static/js/2.952dfd10.chunk.js.LICENSE": "/IZUNA894/static/js/2.952dfd10.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b4c999f.js",
+    "static/js/2.952dfd10.chunk.js",
+    "static/css/main.39a3162b.chunk.css",
+    "static/js/main.3ae54917.chunk.js"
+  ]
+}
